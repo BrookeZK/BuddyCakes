@@ -1,0 +1,58 @@
+.MainImage {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 60%;
+  border: 3px solid #d895ed;
+  /* padding: 10px; */
+
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 36px;
+}
+
+h2 {
+  text-align: center;
+  font-family: cursive;
+  font-style: italic;
+}
+
+body {
+  background-color: #fcf4ff;
+  border: 3px solid #d895ed;
+  padding: 10px;
+  margin: 10%;
+  margin-top: 4%;
+}
+
+html {
+  background-color: #eee1f2;
+}
+
+ol {
+  font-family: monospace;
+  text-align: center;
+  list-style-position: inside;
+  font-size: 30px;
+}
+
+p {
+font-family: monospace;
+font-size: 16px;
+
+}
+
+.fancy {
+  font-style: italic;
+  color: darkred;
+  font-family: monospace;
+  font-size: 28px;
+}
+
+.best {
+  font-weight: bold;
+  text-align: center;
+}
